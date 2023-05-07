@@ -1,0 +1,128 @@
+body{
+    background-image: url(https://assets-prd.ignimgs.com/2022/08/31/thelastofus-part1-review-blogroll-1661921378847.jpg);
+     background-repeat: no-repeat; 
+    background-size: 100% 100%;
+      color: white; 
+     text-align: center;
+      background-attachment: fixed;
+      font-size: 20px;
+      font-family: 'Anton', sans-serif;
+    } 
+img{
+    width: 100%;
+     height: 500px;
+      margin-top: 10px;
+    }
+#name{
+    background-color: rgb(143, 94, 37);
+     padding: 30px;
+    }
+#intro{
+    margin-top: 120px;
+     background-color: rgba(88, 74, 46, 0.705); 
+     padding: 55px;
+    }
+#joel{
+    margin-top: 130px; 
+    padding: 40px;
+     background-color:  rgba(88, 74, 46, 0.705);
+    }
+#ellie{
+    background-color: rgba(88, 74, 46, 0.705)
+    ; padding: 25px;
+}
+
+#tommy{
+    background-color: rgba(88, 74, 46, 0.705);
+     margin-top: 130px;
+      padding: 30px;
+    }
+
+    #marline{
+        background-color: rgba(88, 74, 46, 0.705);
+         margin-top: 130px;
+          padding: 30px;
+        }
+        #tess{
+            background-color: rgba(88, 74, 46, 0.705);
+             margin-top: 130px;
+              padding: 30px;
+            }
+            #bill{
+                background-color: rgba(88, 74, 46, 0.705);
+                 margin-top: 130px;
+                  padding: 30px;
+                }
+                #henryandsam{
+                    background-color: rgba(88, 74, 46, 0.705);
+                     margin-top: 130px;
+                      padding: 30px;
+                    }
+                    #david{
+                        background-color: rgba(88, 74, 46, 0.705);
+                         margin-top: 130px;
+                          padding: 30px;
+                        }
+                        #Riley{
+                            background-color: rgba(88, 74, 46, 0.705);
+                             margin-top: 130px;
+                              padding: 30px;
+                            }
+                            #sarah{
+                                background-color: rgba(88, 74, 46, 0.705);
+                                 margin-top: 130px;
+                                  padding: 30px;
+                                }
+                                #others{
+                                    background-color: rgba(88, 74, 46, 0.705);
+                                     margin-top: 130px;
+                                      padding: 30px;
+                                    }
+            
+    
+
+
+
+
+
+
+
+
+#intro:hover{
+    background-color: rgb(143, 94, 37);
+}
+
+#joel:hover{
+    background-color: rgb(143, 94, 37);
+}
+#bill:hover{
+    background-color: rgb(143, 94, 37);
+}
+#henryandsam:hover{
+    background-color: rgb(143, 94, 37);
+}
+#david:hover{
+    background-color: rgb(143, 94, 37);
+}
+#Riley:hover{
+    background-color: rgb(143, 94, 37);
+}
+#sarah:hover{
+    background-color: rgb(143, 94, 37);
+}
+#ellie:hover{
+    background-color: rgb(143, 94, 37);
+}
+
+#marline:hover{
+    background-color: rgb(143, 94, 37);
+}
+#tommy:hover{
+    background-color: rgb(143, 94, 37);
+}
+#tess:hover{
+    background-color: rgb(143, 94, 37);
+}
+#others:hover{
+    background-color: rgb(143, 94, 37);
+}
